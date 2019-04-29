@@ -10,3 +10,12 @@ codigo
 testing
 depurar
 compilar
+amperio
+binario
+memoria
+cpu
+controlador
+internet
+windows
+linux
+
