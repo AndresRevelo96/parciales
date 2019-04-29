@@ -1,0 +1,12 @@
+html
+php
+bucle
+for
+case
+bug
+algoritmo
+datos
+codigo
+testing
+depurar
+compilar
